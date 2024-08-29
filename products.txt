@@ -1,0 +1,20 @@
+1,Laptop,Electronics,999.99,1
+2,Smartphone,Electronics,599.99,2
+3,Desk,Furniture,199.99,3
+4,Chair,Furniture,89.99,3
+5,Headphones,Electronics,199.99,1
+6,Coffee Table,Furniture,129.99,4
+7,Tablet,Electronics,399.99,5
+8,Monitor,Electronics,299.99,6
+9,Lamp,Furniture,49.99,6
+10,Keyboard,Electronics,79.99,2
+11,Sofa,Furniture,499.99,7
+12,Microwave,Appliances,149.99,8
+13,Blender,Appliances,59.99,8
+14,Television,Electronics,799.99,9
+15,Bookshelf,Furniture,199.99,10
+16,Printer,Electronics,129.99,9
+17,Refrigerator,Appliances,999.99,11
+18,Washing Machine,Appliances,699.99,11
+19,Oven,Appliances,399.99,12
+20,Air Conditioner,Appliances,299.99,12
